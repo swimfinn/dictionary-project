@@ -1,7 +1,9 @@
 h1 {
   text-align: center;
-  font-size: 40px;
-  font-weight: bold;
+  font-size: 60px;
+  font-weight: bolder;
+  color: white;
+  font-family: "Dancing Script", cursive;
 }
 
 .App-header {
@@ -10,20 +12,29 @@ h1 {
 
 .App footer {
   margin: 30px 0;
+  font-size: 20px;
   text-align: center;
+  color: #ff008c;
+  font-weight: bolder;
+  box-shadow: inset;
+  text-shadow: 3px 3px 3px white;
 }
 
 .App {
   max-width: 960px;
   margin: 0 auto;
+  color: white;
+  font-family: "Kalam", cursive;
 }
 
 body {
-  background: #c7b198;
+  background-image: url("desert.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .Dictionary section {
-  background: #dfd3c3;
+  background: #ff008c;
   padding: 30px;
   border-radius: 5px;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);

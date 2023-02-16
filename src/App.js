@@ -5,9 +5,17 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <div className="container">
+        <header className="App-header">
+          {" "}
+          <h1>Dictionary</h1>
+        </header>
         <Dictionary defaultKeyword="tropics" />
-      </header>
+      </div>
+      <br />
+      <footer>
+        Coded by Eileen Finn and is open-sourced on Github
+    </footer>
     </div>
   );
 }

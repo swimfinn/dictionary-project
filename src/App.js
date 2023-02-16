@@ -14,8 +14,8 @@ function App() {
       </div>
       <br />
       <footer>
-        Coded by Eileen Finn and is open-sourced on Github
-    </footer>
+        Coded by Eileen Finn and is open-sourced on <a href="https://github.com/swimfinn/dictionary-project.git">Github</a>
+      </footer>
     </div>
   );
 }

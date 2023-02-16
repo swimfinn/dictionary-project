@@ -3,11 +3,12 @@
   padding: 0;
   font-style: italic;
   font-weight: bold;
+  text-align: center;
 }
 
 .Synonyms li {
   display: inline-block;
-  padding-right: 10px;
+  padding-right: 30px;
   font-size: 18px;
   line-height: 1;
 }

@@ -14,10 +14,10 @@ h1 {
   margin: 30px 0;
   font-size: 20px;
   text-align: center;
-  color: #ff008c;
+  color: #f36db7;
   font-weight: bolder;
   box-shadow: inset;
-  text-shadow: 3px 3px 3px white;
+  text-shadow: 0.5px 0.5px 0.5px white;
 }
 
 .App {
@@ -36,9 +36,10 @@ body {
 .Dictionary section {
   background: #ff008c;
   padding: 30px;
-  border-radius: 5px;
+  border-radius: 15px;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
   margin: 20px 0;
+  opacity: 0.9;
 }
 
 .Dictionary input {
